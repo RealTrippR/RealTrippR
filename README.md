@@ -1,7 +1,4 @@
-
-[![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR)](https://github.com/RealTrippR/github-readme-stats)
-![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true)
-<!--
+![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=radical)
 **RealTrippR/RealTrippR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
