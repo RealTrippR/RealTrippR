@@ -12,4 +12,5 @@ Since then I branched out, tackling python, C and C++.
 - Java
 - Python
 
+
 ![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=radical)
