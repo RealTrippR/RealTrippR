@@ -1,7 +1,7 @@
 **About me**
 
 Hi! I'm a developer passionate about technology and software development.
-My journey in the world of coding began 5 years ago, when I learned the basics of Lua, driven by an interest in game development.
+Sparked by interest in game development, my journey in the world of coding began 5 years ago, when I learned the basics of Lua.
 Since then I branched out, tackling python, C and C++.
 
 
