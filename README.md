@@ -4,7 +4,7 @@ Hi! I'm a developer passionate about technology and software development.
 
 Sparked by interest in game development, my journey in the world of coding began 5 years ago, when I learned the basics of Lua.
 
-Since then I have branched out, tackling python, C and C++.
+Since then I've expanded my horizons, delving into Python, Java, C, and C++.
 
 
 **Languages**
