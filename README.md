@@ -7,6 +7,7 @@ Sparked by interest in game development, my journey in the world of coding began
 Since then I've expanded my horizons, delving into Python, Java, C, and C++.
 
 
+
 **Languages**
 - C++
 - C
@@ -14,5 +15,9 @@ Since then I've expanded my horizons, delving into Python, Java, C, and C++.
 - Java
 - Python
 
+**Interests**
+- Programming (Duh)
+- Blender & 3D modeling
+- Flying & Aircraft
 
 ![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=radical)
