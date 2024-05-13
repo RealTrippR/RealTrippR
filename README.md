@@ -15,10 +15,12 @@ Since then I've expanded my horizons, delving into Python, Java, C, and C++.
 - Java
 - Python
 
-**Interests** - Programming
+**Interests**
+- Programming
 - Blender & 3D modeling
 - Flying & Aircraft
 - History
+
 
 
 ![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=radical)
