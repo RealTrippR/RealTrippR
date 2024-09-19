@@ -19,6 +19,6 @@ Hi! I'm a programmer passionate about technology and software development.
 
 
 
-![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=radical)
+![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=toykonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&theme=toykonight)
