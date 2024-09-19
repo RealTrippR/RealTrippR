@@ -14,7 +14,7 @@ Hi! I'm a programmer passionate about technology and software development.
 **Interests**
 - Programming
 - Blender & 3D modeling
-- Flying & Aircraft
+- Aviation
 - History
 
 
