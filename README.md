@@ -23,6 +23,7 @@ Hi! I'm a programmer passionate about software development and low-level program
 - Lua
 - Java
 - Python
+- Ada
 
 **Interests**
 - Programming
