@@ -17,7 +17,6 @@
 
 Hi! I'm a programmer passionate about software development and low-level programming.
 
-
 **Languages**
 - C++
 - C
