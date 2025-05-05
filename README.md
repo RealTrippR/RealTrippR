@@ -36,6 +36,7 @@ Hi! I'm a programmer passionate about software development and low-level program
 - Python
 - Ada
 - Javascript (🤢)
+- PHP
 
 **Interests**
 - Programming
