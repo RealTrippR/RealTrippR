@@ -25,6 +25,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RealTrippR)
 
 **About Me**
+
 CODE IN C NOW
 
 **Languages**
