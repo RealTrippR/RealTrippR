@@ -24,9 +24,6 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RealTrippR)
 
-**About me**
-
-Hi! I'm a programmer passionate about software development and low-level programming.
 
 **Languages**
 - C++
