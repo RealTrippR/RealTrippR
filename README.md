@@ -45,6 +45,13 @@ CODE IN C NOW
 - History
 
 <HR>
-
-![Tripp's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=toykonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&theme=toykonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=toykonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact&theme=toykonight&card_width=445" />
+    </td>
+  </tr>
+</table>
