@@ -35,7 +35,7 @@ CODE IN C NOW
 - Java
 - Python
 - Ada
-- Javascript (🤢)
+- Javascript
 - PHP
 
 **Interests**
