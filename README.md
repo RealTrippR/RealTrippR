@@ -37,7 +37,7 @@ CODE IN C NOW
 - Ada
 - Javascript
 - PHP
-- IA-64 
+- NASM x64
 
 **Interests**
 - Programming
