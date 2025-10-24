@@ -22,6 +22,8 @@
 
 <HR>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&stats_format=bytes)
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=RealTrippR)
 
 **About Me**
