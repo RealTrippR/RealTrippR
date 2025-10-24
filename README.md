@@ -47,11 +47,10 @@ CODE IN C NOW
 <table>
   <tr>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact)
+      <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact>
     </td>
     <td>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&hide=contribs,prs)
+      <img src = https://github-readme-stats.vercel.app/api?username=RealTrippR&hide=contribs,prs>
     </td>
   </tr>
 </table>
-](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
