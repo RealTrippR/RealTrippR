@@ -22,8 +22,6 @@
 
 <HR>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact)
-
 **About Me**
 
 CODE IN C NOW
@@ -49,10 +47,10 @@ CODE IN C NOW
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RealTrippR&show_icons=true&theme=toykonight" />
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact)
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTrippR&layout=compact&theme=toykonight&card_width=445" />
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealTrippR&hide=contribs,prs)
     </td>
   </tr>
 </table>
