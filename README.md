@@ -24,7 +24,7 @@
 
 **About Me**
 
-CODE IN C NOW
+A true American C developer in an age of AI vibe coders
 
 **Languages**
 - C++
