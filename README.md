@@ -24,7 +24,7 @@
 
 **About Me**
 
-A true American C developer in the age of AI vibe coders
+A true American C dev in the age of AI vibe coders
 
 **Languages**
 - C++
