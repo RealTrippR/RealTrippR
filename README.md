@@ -39,7 +39,6 @@ A true American C dev in the age of AI vibe coders
 
 **Interests**
 - Programming
-- Blender & 3D modeling
 - Aviation
 - History
 
