@@ -36,6 +36,7 @@ A true American C dev in the age of AI vibe coders
 - Javascript
 - PHP
 - NASM x64
+- Go
 
 **Interests**
 - Programming
