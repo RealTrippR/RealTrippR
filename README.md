@@ -38,6 +38,7 @@ A true American C dev in the age of AI vibe coders
 - PHP
 - NASM x64
 - Go
+- x64-86 assembly
 
 **Interests**
 - Programming
