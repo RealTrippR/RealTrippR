@@ -30,15 +30,14 @@ A true American C dev in the age of AI vibe coders
 **Languages**
 - C++
 - C
+- x86-64 assembly
 - Lua
 - Java
 - Python
 - Ada
 - Javascript
 - PHP
-- NASM x64
 - Go
-- x86-64 assembly
 
 **Interests**
 - Programming
