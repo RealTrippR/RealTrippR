@@ -27,6 +27,8 @@
 
 A true American C dev in the age of AI vibe coders
 
+Currently working on the Finch operating system, a 8086 multitasking hobby OS
+
 **Languages**
 - C++
 - C
