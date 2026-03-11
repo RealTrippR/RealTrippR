@@ -26,6 +26,7 @@
 **About Me**
 
 Programming since age 10
+
 A true American C dev in the age of AI vibe coders
 
 **Languages**
